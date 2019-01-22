@@ -1,2 +1,1 @@
-# validation
-# validation
+Grid search. The traditional way of performing hyperparameter optimization has been grid search, or a parameter sweep, which is simply an exhaustive searching through a manually specified subset of the hyperparameter space of a learning algorithm.
